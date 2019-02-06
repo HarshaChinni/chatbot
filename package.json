@@ -1,0 +1,21 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "For chatting in specific chatrooms",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Harsha Chinni",
+  "license": "ISC",
+  "engines": {
+    "node": "4.2.2"
+  },
+  "dependencies": {
+    "connect-mongo": "1.1.0",
+    "ejs": "2.3.4",
+    "express": "4.13.0",
+    "express-session": "1.12.1",
+    "mongoose": "4.3.1"
+  }
+}
