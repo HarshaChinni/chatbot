@@ -1,5 +1,0 @@
-{
-  "host": "http:localhost:5000",
-  "dbURI": "mongodb://harsha:test123@ds121593.mlab.com:21593/chatappdb",
-  "secretKey": "snvjnsjkvnsjknvjvsdvds"
-}
